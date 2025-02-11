@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Sumit Ranjan Bahalia</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 🚀 About Me<br>I’m a passionate Full-Stack Web Developer with a strong foundation in JavaScript, React, Node.js, and MongoDB. I thrive on building scalable, efficient, and user-friendly web applications while continuously exploring new technologies.<br><br>💡 What I Do:<br><br>🌍 Front-End Development – Creating dynamic, responsive, and modern UIs with React & Tailwind CSS.<br>⚙️ Back-End Development – Designing robust REST APIs with Node.js, Express & MongoDB/MySQL.<br>🔍 Problem-Solving – Strong focus on DSA and algorithms, always refining my coding skills.<br>🚀 Always eager to learn, collaborate, and take on new challenges. Let’s connect and build something impactful!<br>
 
 
