@@ -32,16 +32,23 @@ I thrive on building **scalable, efficient, and user-friendly web applications**
 
 ### 📊 GitHub Stats
 <div align="center">
-![](https://nirzak-streak-stats.vercel.app/?user=PrimeSumit&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=PrimeSumit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PrimeSumit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeSumit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
+
 ---
 
 ### ✍️ Random Dev Quote
 <div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=PrimeSumit&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
+
