@@ -38,9 +38,8 @@ I thrive on building **scalable, efficient, and user-friendly web applications**
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=PrimeSumit&icon=0&color=0)](https://visitcount.itsvg.in)
 
