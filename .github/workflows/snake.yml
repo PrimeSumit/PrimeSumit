@@ -5,12 +5,15 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write   # ✅ IMPORTANT FIX
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Generate snake
@@ -19,9 +22,8 @@ jobs:
           github_user_name: PrimeSumit
           outputs: dist/snake.svg
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push snake
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: dist
+          branch: output
+          commit_message: "generate snake"
