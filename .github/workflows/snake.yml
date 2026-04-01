@@ -2,11 +2,9 @@ name: snake
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
 
 permissions:
-  contents: write   # ✅ IMPORTANT FIX
+  contents: write
 
 jobs:
   build:
@@ -19,11 +17,21 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: PrimeSumit
-          outputs: dist/snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push snake
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          branch: output
-          commit_message: "generate snake"
+      - name: Push to output branch
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git clone --depth=1 https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} temp
+          cd temp
+          git checkout --orphan output
+          rm -rf *
+          cp -r ../dist/* .
+          git add .
+          git commit -m "update snake"
+          git push origin output --force
