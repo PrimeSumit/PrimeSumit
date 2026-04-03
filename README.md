@@ -23,7 +23,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
----
+
 
 ## 📈 Contribution Graph
 
@@ -32,7 +32,7 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrimeSumit&theme=tokyo-night&hide_border=true&area=true)](https://github.com/PrimeSumit)
 
 </div>
----
+
 
 ## 🐍 Contribution Snake
 
@@ -41,7 +41,7 @@
 ![snake](https://raw.githubusercontent.com/PrimeSumit/PrimeSumit/output/github-snake-dark.svg)
 
 </div>
----
+
 
 ## 🌐 Connect
 
