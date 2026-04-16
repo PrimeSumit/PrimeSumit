@@ -6,7 +6,7 @@
 
 </div>
 
----
+
 ## TECH STACK
 
 <div align="center">
