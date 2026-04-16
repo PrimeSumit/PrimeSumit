@@ -9,16 +9,18 @@
 ---
 ## TECH STACK
 
-<p align="center">
+<div align="center">
   <a href="https://mdazfar2.netlify.app">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,postgresql" />
   </a>
-</p>
-<p align="center">
+</div>
+<div align="center">
   <a href="https://mdazfar2.netlify.app">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,docker,postman" />
   </a>
-</p>
+</div>
+
+---
 ## 📈 Contribution Graph
 
 <div align="center">
