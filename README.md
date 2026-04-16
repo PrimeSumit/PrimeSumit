@@ -10,14 +10,10 @@
 ## TECH STACK
 
 <div align="center">
-  <a href="https://mdazfar2.netlify.app">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,postgresql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,postgresql" />
 </div>
 <div align="center">
-  <a href="https://mdazfar2.netlify.app">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,docker,postman" />
-  </a>
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,docker,postman" />
 </div>
 
 
