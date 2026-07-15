@@ -10,10 +10,10 @@
 ## TECH STACK
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgresql,python,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,supabase,docker,linux,git" />
 </div>
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,docker,fastapi,supabase,github" />
+   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,javascript,typescript,postman,github" />
 </div>
 
 
