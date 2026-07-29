@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sumit Ranjan Bahalia 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Learning+Backend+%26+Systems;Building+Real+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=AI+Engineering;Python+Backend+Developer;FastAPI+%7C+PostgreSQL+%7C+Docker;Building+Scalable+AI+Systems)](https://git.io/typing-svg)
 
 </div>
 
