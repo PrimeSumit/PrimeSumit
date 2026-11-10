@@ -19,12 +19,13 @@
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrimeSumit&theme=tokyo-night&hide_border=true&area=true)](https://github.com/PrimeSumit)
-
-</div>
-
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-view.svg"
+    alt="3D Contribution Graph - Night View"
+    width="100%"
+  />
+</p>
 
 ## 🐍 Contribution Snake
 
